@@ -25,7 +25,7 @@ jobs:
 
       - name: Set up system timezone
         run: |
-          sudo timedatectl set-timezone ${{ env.TZ }}
+          sudo timedatectl set-timezone ${{ env.TimeZone }}
           timedatectl
           
       - name: Setup Python
