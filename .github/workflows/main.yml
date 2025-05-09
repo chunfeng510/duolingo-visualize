@@ -23,7 +23,7 @@ jobs:
       - name: venv setup
         uses: srvanderplas/action-setup-venv@v1.1.5
         with:
-          venv-name: .venv
+          venv-name: venv
 
       - name: Set up system timezone
         run: |
@@ -37,7 +37,7 @@ jobs:
 
       - name: Execute Python script
         run: |
-          source .venv/bin/activate 
+          source venv/bin/activate 
           python main.py          
         env:
           DUOLINGO_USERNAME: ${{ secrets.DUOLINGO_USERNAME }}
