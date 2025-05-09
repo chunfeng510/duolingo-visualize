@@ -41,13 +41,13 @@ jobs:
           python main.py          
         env:
           DUOLINGO_USERNAME: ${{ secrets.DUOLINGO_USERNAME }}
-          DUOLINGO_PASSWORD: ${{ secrets.DUOLINGO_PASSWORD }}
           DUOLINGO_JWT: ${{ secrets.DUOLINGO_JWT }}
           
       - name: Set commit message as environment variable
         run: |
           NOW=$(date '+%Y-%m-%d')
           echo "COMMIT_MESSAGE=auto: Duolingo status as of $NOW" >> $GITHUB_ENV
+          
       - name: Commit changes and push them to GitHub
         uses: EndBug/add-and-commit@v9
         with:
