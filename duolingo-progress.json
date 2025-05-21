@@ -360,9 +360,9 @@
     "xp_today": 0
   },
   "2025/05/20": {
-    "number_of_sessions": 1,
-    "session_time": 246,
+    "number_of_sessions": 2,
+    "session_time": 639,
     "streak": 61,
-    "xp_today": 28
+    "xp_today": 58
   }
 }
