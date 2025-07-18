@@ -706,5 +706,11 @@
     "session_time": 1005,
     "streak": 118,
     "xp_today": 183
+  },
+  "2025/07/17": {
+    "number_of_sessions": 2,
+    "session_time": 653,
+    "streak": 119,
+    "xp_today": 55
   }
 }
