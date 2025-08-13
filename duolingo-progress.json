@@ -862,5 +862,11 @@
     "session_time": 480,
     "streak": 144,
     "xp_today": 43
+  },
+  "2025/08/12": {
+    "number_of_sessions": 3,
+    "session_time": 570,
+    "streak": 145,
+    "xp_today": 84
   }
 }
