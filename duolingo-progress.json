@@ -880,5 +880,17 @@
     "session_time": 878,
     "streak": 147,
     "xp_today": 118
+  },
+  "2025/08/15": {
+    "number_of_sessions": 3,
+    "session_time": 751,
+    "streak": 148,
+    "xp_today": 72
+  },
+  "2025/08/16": {
+    "number_of_sessions": 6,
+    "session_time": 788,
+    "streak": 149,
+    "xp_today": 194
   }
 }
