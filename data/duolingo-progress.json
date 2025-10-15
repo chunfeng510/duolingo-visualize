@@ -1240,5 +1240,17 @@
     "session_time": 760,
     "streak": 207,
     "xp_today": 166
+  },
+  "2025/10/14": {
+    "number_of_sessions": 1,
+    "session_time": 132,
+    "streak": 208,
+    "xp_today": 35
+  },
+  "2025/10/15": {
+    "number_of_sessions": 1,
+    "session_time": 176,
+    "streak": 209,
+    "xp_today": 34
   }
 }
