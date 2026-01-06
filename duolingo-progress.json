@@ -1738,5 +1738,11 @@
     "session_time": 169,
     "streak": 290,
     "xp_today": 33
+  },
+  "2026/01/05": {
+    "number_of_sessions": 5,
+    "session_time": 753,
+    "streak": 291,
+    "xp_today": 155
   }
 }
