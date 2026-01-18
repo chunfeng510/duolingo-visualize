@@ -1810,5 +1810,17 @@
     "session_time": 122,
     "streak": 302,
     "xp_today": 75
+  },
+  "2026/01/17": {
+    "number_of_sessions": 2,
+    "session_time": 400,
+    "streak": 303,
+    "xp_today": 68
+  },
+  "2026/01/18": {
+    "number_of_sessions": 1,
+    "session_time": 139,
+    "streak": 304,
+    "xp_today": 33
   }
 }
