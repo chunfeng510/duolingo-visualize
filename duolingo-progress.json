@@ -1930,5 +1930,17 @@
     "session_time": 451,
     "streak": 322,
     "xp_today": 60
+  },
+  "2026/02/06": {
+    "number_of_sessions": 4,
+    "session_time": 944,
+    "streak": 323,
+    "xp_today": 152
+  },
+  "2026/02/07": {
+    "number_of_sessions": 3,
+    "session_time": 615,
+    "streak": 324,
+    "xp_today": 210
   }
 }
