@@ -1954,5 +1954,11 @@
     "session_time": 700,
     "streak": 326,
     "xp_today": 210
+  },
+  "2026/02/10": {
+    "number_of_sessions": 2,
+    "session_time": 568,
+    "streak": 327,
+    "xp_today": 75
   }
 }
