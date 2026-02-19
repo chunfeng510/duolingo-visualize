@@ -1996,5 +1996,17 @@
     "session_time": 164,
     "streak": 333,
     "xp_today": 48
+  },
+  "2026/02/17": {
+    "number_of_sessions": 1,
+    "session_time": 113,
+    "streak": 334,
+    "xp_today": 25
+  },
+  "2026/02/18": {
+    "number_of_sessions": 1,
+    "session_time": 227,
+    "streak": 335,
+    "xp_today": 40
   }
 }
