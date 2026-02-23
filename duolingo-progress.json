@@ -2026,5 +2026,11 @@
     "session_time": 111,
     "streak": 338,
     "xp_today": 30
+  },
+  "2026/02/22": {
+    "number_of_sessions": 1,
+    "session_time": 162,
+    "streak": 339,
+    "xp_today": 29
   }
 }
