@@ -2182,5 +2182,11 @@
     "session_time": 200,
     "streak": 364,
     "xp_today": 25
+  },
+  "2026/03/20": {
+    "number_of_sessions": 3,
+    "session_time": 600,
+    "streak": 365,
+    "xp_today": 90
   }
 }
