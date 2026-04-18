@@ -2344,5 +2344,17 @@
     "session_time": 159,
     "streak": 391,
     "xp_today": 29
+  },
+  "2026/04/16": {
+    "number_of_sessions": 1,
+    "session_time": 660,
+    "streak": 392,
+    "xp_today": 30
+  },
+  "2026/04/17": {
+    "number_of_sessions": 1,
+    "session_time": 174,
+    "streak": 393,
+    "xp_today": 30
   }
 }
