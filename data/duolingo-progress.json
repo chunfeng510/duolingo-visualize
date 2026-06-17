@@ -2700,15 +2700,21 @@
     "xp_today": 25
   },
   "2026/06/14": {
-    "number_of_sessions": 0,
+    "number_of_sessions": 1,
     "session_time": 0,
     "streak": 451,
-    "xp_today": 0
+    "xp_today": 10
   },
   "2026/06/15": {
+    "number_of_sessions": 1,
+    "session_time": 151,
+    "streak": 452,
+    "xp_today": 28
+  },
+  "2026/06/16": {
     "number_of_sessions": 0,
     "session_time": 0,
-    "streak": 452,
+    "streak": 453,
     "xp_today": 0
   }
 }
