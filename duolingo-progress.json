@@ -2800,5 +2800,17 @@
     "session_time": 159,
     "streak": 467,
     "xp_today": 30
+  },
+  "2026/07/01": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 468,
+    "xp_today": 0
+  },
+  "2026/07/02": {
+    "number_of_sessions": 0,
+    "session_time": 0,
+    "streak": 469,
+    "xp_today": 0
   }
 }
